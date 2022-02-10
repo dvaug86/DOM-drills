@@ -1,0 +1,27 @@
+.H1{
+    color: red;
+}
+
+.H2{
+    color: orange;
+}
+
+.H3{
+    color: yellow;
+}
+
+.H4{
+    color: green;
+}
+
+.H5{
+    color: blue;
+}
+
+.H6{
+    color: indigo;
+}
+
+body{
+    background-color: black;
+}
